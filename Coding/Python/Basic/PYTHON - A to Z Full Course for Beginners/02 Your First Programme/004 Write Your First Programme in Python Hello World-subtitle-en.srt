@@ -1,0 +1,260 @@
+1
+00:00:03,290 --> 00:00:09,500
+Hello guys you'll begin to know what programming language and fighting in Israel will implement or exiguous
+
+2
+00:00:09,640 --> 00:00:11,210
+in Python healable.
+
+3
+00:00:11,660 --> 00:00:16,890
+Hope you have Biden installed on your computer from this link from the official Python web site.
+
+4
+00:00:17,090 --> 00:00:18,090
+Hope you have.
+
+5
+00:00:18,180 --> 00:00:20,950
+You're using two pencil and a lot of the motion.
+
+6
+00:00:21,180 --> 00:00:22,880
+You're really convenient.
+
+7
+00:00:23,370 --> 00:00:24,080
+All right.
+
+8
+00:00:24,120 --> 00:00:27,680
+In Python we're going to go into in two ways.
+
+9
+00:00:27,680 --> 00:00:32,330
+One is by using the interpreter and one is by using the Python scripts.
+
+10
+00:00:32,450 --> 00:00:38,010
+Basically a file is called Blyton's to bite and module if it's ends with Dot people.
+
+11
+00:00:38,210 --> 00:00:41,470
+It means python files ends with an extension of God.
+
+12
+00:00:41,710 --> 00:00:47,870
+But but if you have a very large lot of code to be executed it's better to write a script with got extension
+
+13
+00:00:47,930 --> 00:00:48,800
+and exit.
+
+14
+00:00:48,880 --> 00:00:50,540
+Vigeland All right.
+
+15
+00:00:50,930 --> 00:00:57,610
+So last fall let let's implement a simple hello world program by using the interpreter.
+
+16
+00:00:58,250 --> 00:01:00,200
+Open the domina.
+
+17
+00:01:00,390 --> 00:01:06,150
+I have already opened it and the not entered into by an interpreter.
+
+18
+00:01:06,400 --> 00:01:17,220
+How we can do that simple just type it down without any input arguments to it and present the that's
+
+19
+00:01:17,220 --> 00:01:17,540
+all.
+
+20
+00:01:17,640 --> 00:01:19,250
+Now you are in the Biden interview.
+
+21
+00:01:19,710 --> 00:01:26,030
+These three arrow marks shows you that tells you that you entered into by an interpreter.
+
+22
+00:01:26,150 --> 00:01:29,460
+And now we can execute the code we want here.
+
+23
+00:01:29,760 --> 00:01:33,630
+So let's implement a simple by Dunhills Broga
+
+24
+00:01:39,870 --> 00:01:45,360
+room that top that Tolland by Biden to bring up the exiguous as it will help what.
+
+25
+00:01:45,390 --> 00:01:50,870
+So let's let's understand what this is all print.
+
+26
+00:01:50,910 --> 00:01:57,300
+What has been printed is nothing but by done building function that prints any data from byte and program
+
+27
+00:01:57,420 --> 00:01:58,860
+and hellebore is a string.
+
+28
+00:01:59,010 --> 00:02:06,370
+So the building function and the string combines and formed and formed the Biden program.
+
+29
+00:02:06,420 --> 00:02:10,180
+So this is all about a simple hello world program in Python.
+
+30
+00:02:10,530 --> 00:02:18,500
+We can also implement this by then Hellawell program using byte scripts on modules as we have discussed.
+
+31
+00:02:18,510 --> 00:02:23,740
+And the second point is so let's implement this Helliwell program using scaped
+
+32
+00:02:26,670 --> 00:02:32,240
+exeat don't have speak create a Biden fight Autumn what one you
+
+33
+00:02:42,080 --> 00:02:48,910
+have created by done more with an extension of Darbyville that now.
+
+34
+00:02:48,980 --> 00:02:53,530
+No it was a blackflies and let's write something or some program.
+
+35
+00:02:58,830 --> 00:03:06,870
+This was seen as the one having been injured on the tiny know we have no single program no hope and
+
+36
+00:03:06,880 --> 00:03:08,220
+hoping to get it.
+
+37
+00:03:08,760 --> 00:03:16,550
+Go to Domina use the word Biden and find him.
+
+38
+00:03:16,620 --> 00:03:17,180
+There you go.
+
+39
+00:03:17,210 --> 00:03:23,700
+You've been able to see the string Hello all that we have been dead from the Bidens good.
+
+40
+00:03:23,850 --> 00:03:24,800
+That's all in Biden.
+
+41
+00:03:24,840 --> 00:03:29,280
+So able to execute our programs in two ways.
+
+42
+00:03:29,280 --> 00:03:31,990
+One is independent and one is by scripts.
+
+43
+00:03:32,010 --> 00:03:34,880
+Let's do some meaningful.
+
+44
+00:03:35,310 --> 00:03:41,860
+When this hello world string but using some functions don't worry about disfunctions datatype etc. We'll
+
+45
+00:03:42,160 --> 00:03:44,340
+be getting too deep with these topics.
+
+46
+00:03:44,340 --> 00:03:46,640
+No extra problems for now.
+
+47
+00:03:46,830 --> 00:04:06,650
+Let's bring this hello world using Python function.
+
+48
+00:04:08,200 --> 00:04:09,200
+All right.
+
+49
+00:04:09,200 --> 00:04:15,170
+We have written a simple function called Hello world and inside that we are building the word hello
+
+50
+00:04:15,170 --> 00:04:20,600
+world and def is nothing but the negation in by Biden which indicates that this was a function.
+
+51
+00:04:20,810 --> 00:04:24,220
+And finally we are calling this function to bring this hellova.
+
+52
+00:04:24,350 --> 00:04:26,090
+Let's exiguous this file from Domina
+
+53
+00:04:30,620 --> 00:04:31,910
+same as we did before.
+
+54
+00:04:32,940 --> 00:04:38,340
+Did you will you've been able to see the string hello world that we are hoping that you have executed
+
+55
+00:04:38,340 --> 00:04:41,790
+or that you have been Dinda to print that from.
+
+56
+00:04:41,920 --> 00:04:42,300
+Function
+
+57
+00:04:45,580 --> 00:04:46,300
+All right.
+
+58
+00:04:46,520 --> 00:04:55,250
+So we have seen of executing this problem in the builder and also to bite on scripts.
+
+59
+00:04:55,340 --> 00:05:02,570
+There are many ways to implement or to exit this program using functions with taking different arguments
+
+60
+00:05:02,920 --> 00:05:03,680
+etc..
+
+61
+00:05:04,450 --> 00:05:09,250
+So in the next two tutorial will know something.
+
+62
+00:05:09,520 --> 00:05:13,840
+Something in DB like datatypes syntax etc..
+
+63
+00:05:14,140 --> 00:05:16,170
+That's all for this tutorial guys.
+
+64
+00:05:16,180 --> 00:05:17,340
+See the next tutorial.
+
+65
+00:05:17,380 --> 00:05:18,110
+Thank you very much.
+
