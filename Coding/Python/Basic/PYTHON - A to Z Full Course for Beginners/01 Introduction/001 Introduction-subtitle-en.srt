@@ -1,0 +1,272 @@
+1
+00:00:05,330 --> 00:00:07,040
+Hello you're with us.
+
+2
+00:00:07,040 --> 00:00:16,030
+Welcome to the first among a series of tutorials to get you started with programming language.
+
+3
+00:00:16,050 --> 00:00:22,920
+This will be a short session to help you with the basics like the features of the Python language and
+
+4
+00:00:22,920 --> 00:00:24,860
+how to get them to work on the machine.
+
+5
+00:00:25,930 --> 00:00:32,080
+With that go and let's get into your first lesson on Batan.
+
+6
+00:00:32,170 --> 00:00:40,510
+The session goes the following topics introduction to Python the fetus and setting up by an all new
+
+7
+00:00:40,510 --> 00:00:41,100
+machine.
+
+8
+00:00:43,070 --> 00:00:49,850
+Introduction to the Biden programming language was developed in the late 80s.
+
+9
+00:00:50,740 --> 00:01:01,580
+And it was designed from a number of other programming languages like C C++ small dog and a few others.
+
+10
+00:01:01,720 --> 00:01:07,330
+It is a high level interpreter object oriented programming language.
+
+11
+00:01:07,960 --> 00:01:15,350
+Well that's quite a few heavy terminology isn't a but well we are here to break things down for you.
+
+12
+00:01:17,690 --> 00:01:26,640
+The high level programming language is one that may use or disclose to natural human language or contained
+
+13
+00:01:26,970 --> 00:01:35,330
+elements from natural language thus making the programs simpler as an example.
+
+14
+00:01:35,670 --> 00:01:41,650
+The word friend might indeed be meaningful to a high level programming language
+
+15
+00:01:44,590 --> 00:01:52,360
+and interpreted language enables you to run the exact code you wrote without having to rely on someone
+
+16
+00:01:52,360 --> 00:02:02,170
+else to convert your code into a language spoken by your computer with just the zeros and ones someone
+
+17
+00:02:02,170 --> 00:02:04,000
+else being a compiler.
+
+18
+00:02:04,000 --> 00:02:08,200
+In most cases mortarboard compilers later
+
+19
+00:02:12,070 --> 00:02:20,510
+in object oriented programming language treats everything like real world objects or go up in object
+
+20
+00:02:20,510 --> 00:02:25,390
+oriented terms is an object and employ as an object.
+
+21
+00:02:25,460 --> 00:02:30,990
+Both of these know how to get stuff done like drive or work.
+
+22
+00:02:31,250 --> 00:02:35,400
+You write code to ask these objects to get the stuff done.
+
+23
+00:02:35,870 --> 00:02:42,820
+This is a pretty simplified explanation and made some really silly for a non beginner.
+
+24
+00:02:42,830 --> 00:02:49,610
+Our intention is to get all the complexity out at the beginning and we'll definitely be diving deep
+
+25
+00:02:49,610 --> 00:02:54,570
+into these concepts a little way later.
+
+26
+00:02:54,590 --> 00:02:59,230
+Moving on to features Bitin is simple.
+
+27
+00:02:59,240 --> 00:03:02,410
+Which means it is easy to learn and read.
+
+28
+00:03:02,420 --> 00:03:09,620
+Now we touched on the word trend a while ago when we discussed high level languages.
+
+29
+00:03:09,620 --> 00:03:13,410
+The word print does indeed have a meaning in python.
+
+30
+00:03:13,800 --> 00:03:15,310
+No that's your first example.
+
+31
+00:03:16,160 --> 00:03:24,150
+The word print followed by some text within court lets you get these text appear on the screen.
+
+32
+00:03:25,270 --> 00:03:27,540
+We shot them all for you
+
+33
+00:03:36,570 --> 00:03:42,460
+the word friend told by a few text
+
+34
+00:03:45,900 --> 00:03:46,790
+within quotes.
+
+35
+00:03:47,710 --> 00:03:50,690
+And hit enter.
+
+36
+00:03:50,760 --> 00:03:56,710
+We can see the text blowpipe them printed on the screen simply isn't it
+
+37
+00:04:04,100 --> 00:04:07,400
+moving on to the next feature that is portability
+
+38
+00:04:10,090 --> 00:04:16,870
+Peyton can run on very many hardware platforms and isn't restricted to being used in a single type of
+
+39
+00:04:16,870 --> 00:04:17,710
+machine.
+
+40
+00:04:18,160 --> 00:04:26,350
+It works like a charm on huge commercial enterprise so to a handheld device all of these do it being
+
+41
+00:04:26,380 --> 00:04:36,030
+open source which is the third feature by open source we mean anybody with enough knowledge can contribute
+
+42
+00:04:36,360 --> 00:04:42,560
+to the source code and make language better by sharing and making changes to the code.
+
+43
+00:04:42,650 --> 00:04:48,460
+There is a strong community backing pikemen that helps keep it Mazan strong.
+
+44
+00:04:48,590 --> 00:04:55,090
+Every day we shall touch on the word nice to go with the final feature on our list.
+
+45
+00:04:55,290 --> 00:05:04,520
+That is Lively's a huge collection of libraries in Python takes your work off from your shoulders since
+
+46
+00:05:04,520 --> 00:05:11,270
+they help you write that's called white and has tons of these written by people in the white community
+
+47
+00:05:11,600 --> 00:05:13,770
+who are way smarter than me.
+
+48
+00:05:17,330 --> 00:05:22,870
+It's more into how we set up the Python programming language on our machines.
+
+49
+00:05:23,990 --> 00:05:33,970
+On Macs like the one we're using now you are good to go by typing in the word byte in after finding
+
+50
+00:05:33,970 --> 00:05:37,000
+a diplomatic.
+
+51
+00:05:37,140 --> 00:05:42,470
+Now we'll follow this up with a simple exercise to demonstrate this concept.
+
+52
+00:05:44,450 --> 00:05:46,830
+It does begin by taking the permanent
+
+53
+00:05:55,040 --> 00:05:58,670
+to begin with and a vital interpreter.
+
+54
+00:05:58,740 --> 00:06:11,370
+I type in Python and press and the I mean to the Python interpreter and in order to start reading my
+
+55
+00:06:11,370 --> 00:06:16,340
+first program that is I want to print the text along.
+
+56
+00:06:17,050 --> 00:06:27,570
+I type in print followed by a word in quotes and press ENTER Kenzi the word hello world printed on the
+
+57
+00:06:27,570 --> 00:06:28,110
+screen.
+
+58
+00:06:33,520 --> 00:06:34,050
+Moving on
+
+59
+00:06:38,850 --> 00:06:47,660
+mostly gets distribution's followed the same procedure so we have that covered as well.
+
+60
+00:06:54,590 --> 00:07:04,310
+Addition to that we have a few that in Macs and Linux Biden 2.10 comes preinstalled.
+
+61
+00:07:06,220 --> 00:07:12,800
+But for Windows you have an additional work.
+
+62
+00:07:13,180 --> 00:07:20,920
+The Windows users are tuned in can listen to what you see on your screen and download the 32 bit on
+
+63
+00:07:20,920 --> 00:07:26,740
+the 64 bit installers with Jim Baker of rest of the procedures.
+
+64
+00:07:26,760 --> 00:07:34,840
+We have a screen grab from the website and you'll have to specifically install either of the two options
+
+65
+00:07:35,140 --> 00:07:37,330
+listed within the rectangular box.
+
+66
+00:07:40,360 --> 00:07:46,260
+With that we are wrapping up the first session.
+
+67
+00:07:46,610 --> 00:07:52,440
+We hope we got you excited about them and we look forward to meeting you the next day.
+
+68
+00:07:52,760 --> 00:07:55,080
+Until then it's goodbye.
+

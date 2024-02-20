@@ -1,0 +1,216 @@
+1
+00:00:03,420 --> 00:00:10,440
+Is today I'll take you to introduction to programming language and Python programming language.
+
+2
+00:00:10,450 --> 00:00:16,550
+So before we get to know about Python programming language what actually is a programming language.
+
+3
+00:00:16,590 --> 00:00:17,500
+Any ideas.
+
+4
+00:00:18,470 --> 00:00:19,120
+OK.
+
+5
+00:00:19,200 --> 00:00:26,360
+Helio a programming language is nothing but a language which is used to communicate with the computer
+
+6
+00:00:26,780 --> 00:00:34,430
+which is nothing but the machine there many programming languages available in the market like Java
+
+7
+00:00:34,490 --> 00:00:45,110
+C++ C ash Perl dot net acceptance and Python is one among them is Python is emerging as as popular day
+
+8
+00:00:45,110 --> 00:00:54,710
+by day because of its simplicity and easy to use and easy to learn and also begin able to learn it in
+
+9
+00:00:54,710 --> 00:00:59,660
+a short period of time and beginning with the goal in a short period of time.
+
+10
+00:00:59,660 --> 00:01:00,440
+All right.
+
+11
+00:01:00,680 --> 00:01:07,550
+Basically the languages I mean the programming languages are categorized into two depths.
+
+12
+00:01:07,820 --> 00:01:13,070
+One is independent languages and one is compiling languages.
+
+13
+00:01:13,220 --> 00:01:20,430
+Lex Noye board interpreter language.
+
+14
+00:01:20,750 --> 00:01:24,760
+All right so what I actually mean by interpretation
+
+15
+00:01:27,100 --> 00:01:32,370
+interpretation is a process of executing a program line by line.
+
+16
+00:01:32,410 --> 00:01:36,520
+It means one statement at a time that it had run.
+
+17
+00:01:37,750 --> 00:01:44,040
+So this was in the order which leaves you a programming code line by line and exit using that again
+
+18
+00:01:44,140 --> 00:01:48,030
+at runtime in a language that can be understand by the machine.
+
+19
+00:01:48,100 --> 00:01:50,560
+So this was your final execution.
+
+20
+00:01:51,120 --> 00:01:51,610
+All right.
+
+21
+00:01:51,760 --> 00:01:57,630
+So interpreter is the one which does this task of executing your code line by line.
+
+22
+00:01:57,760 --> 00:01:58,120
+All right.
+
+23
+00:01:58,150 --> 00:02:03,420
+So this is all about independent what I actually mean by compiler.
+
+24
+00:02:03,570 --> 00:02:09,290
+Or the combination language.
+
+25
+00:02:09,520 --> 00:02:19,830
+All right so compulsion is nothing but the process of conducting the type programming called you have
+
+26
+00:02:19,830 --> 00:02:25,860
+written in a language that can be understood by the computer which is nothing but in the form of zero
+
+27
+00:02:25,860 --> 00:02:32,700
+Gummo Once a machine can able to understand a language which is binary that is zero.
+
+28
+00:02:32,970 --> 00:02:39,690
+So this is all that that can be understood by the Conchobar and is a Final Exit exhiliration called
+
+29
+00:02:41,880 --> 00:02:45,190
+data that a computer can able to understand.
+
+30
+00:02:45,310 --> 00:02:47,950
+So this is all about ambulation.
+
+31
+00:02:47,980 --> 00:02:56,410
+So compilers and interpreters are the two important topics that can be related to programming language
+
+32
+00:02:58,170 --> 00:03:06,960
+and some of the compiler languages or Java C++ dot net C ash etc. and some of interpretor languages
+
+33
+00:03:06,960 --> 00:03:11,670
+are by then Ruby BHB ball etc..
+
+34
+00:03:15,710 --> 00:03:16,270
+All right.
+
+35
+00:03:16,460 --> 00:03:17,630
+So let's come to bite.
+
+36
+00:03:17,670 --> 00:03:21,160
+So what does Biden Biden is an interpreter.
+
+37
+00:03:21,200 --> 00:03:26,590
+High-Level object oriented programming languages language which is very easy to look
+
+38
+00:03:29,410 --> 00:03:38,590
+so bite and that are is a main official Web site of the Biden where you have tons of material.
+
+39
+00:03:38,740 --> 00:03:42,560
+And you know a notion of bidon topics.
+
+40
+00:03:42,640 --> 00:03:48,380
+So this Web site contains the Biden software with the various Russians.
+
+41
+00:03:48,520 --> 00:03:54,940
+So from downloads link you've been able to see there are various versions of Biden's software available
+
+42
+00:03:54,940 --> 00:03:58,430
+to download for different options of operating systems.
+
+43
+00:03:58,600 --> 00:04:05,920
+So you can able to see that you've been able to download bidon software for Linux and Mac and other
+
+44
+00:04:06,010 --> 00:04:08,080
+operating systems.
+
+45
+00:04:08,650 --> 00:04:17,620
+Byte tree was a recent release that has many new futures and functionalities and and 2.7 was most widely
+
+46
+00:04:17,620 --> 00:04:18,850
+used and popular.
+
+47
+00:04:18,850 --> 00:04:25,810
+So before you get you get familiar with Python describer use this pipe and 2.7
+
+48
+00:04:29,200 --> 00:04:30,240
+so.
+
+49
+00:04:30,740 --> 00:04:31,620
+So that's all you guys.
+
+50
+00:04:31,640 --> 00:04:38,130
+This is a direction of bite and programming language and also introduction to programming language.
+
+51
+00:04:38,150 --> 00:04:40,280
+In our next tutorials Let's.
+
+52
+00:04:40,550 --> 00:04:43,610
+Let's let's get in deep byte and like this.
+
+53
+00:04:43,640 --> 00:04:46,220
+I mean the data Daibes syntax etc..
+
+54
+00:04:46,280 --> 00:04:46,960
+Thank you yes.
+

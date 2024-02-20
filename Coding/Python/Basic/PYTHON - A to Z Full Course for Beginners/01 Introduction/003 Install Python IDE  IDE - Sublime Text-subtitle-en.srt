@@ -1,0 +1,164 @@
+1
+00:00:00,510 --> 00:00:03,040
+Hi everyone let's get started.
+
+2
+00:00:03,540 --> 00:00:10,530
+But before diving into Python programming let's decide which ideally we will use for college.
+
+3
+00:00:10,560 --> 00:00:18,510
+There are several ideas like Nadine's by jam Jupiter in sublime wishes to your core Xandra.
+
+4
+00:00:18,960 --> 00:00:29,960
+So let's select one from the 10 best ideas for Python programmers and I'm going to select the main one
+
+5
+00:00:32,370 --> 00:00:40,240
+sublime extreme discipline picks three is one of the most powerful crossplatform like we gaudily do
+
+6
+00:00:40,240 --> 00:00:45,820
+is do that and for beginners it is the best idea to use.
+
+7
+00:00:45,820 --> 00:00:50,620
+So let's in-style it and before.
+
+8
+00:00:50,950 --> 00:00:54,180
+I want to show you my system configuration.
+
+9
+00:00:54,610 --> 00:01:04,670
+I'm using elementarily 64 bit Windu right now and all installations will be done based on this configuration.
+
+10
+00:01:08,250 --> 00:01:13,620
+Select install synoptic package manager first.
+
+11
+00:01:13,860 --> 00:01:23,630
+It will help you to download all the related files over Bowdler package simultaneously.
+
+12
+00:01:23,640 --> 00:01:32,370
+So since I have installed synoptic package banish'd you let's go to an IP package manager and install
+
+13
+00:01:32,370 --> 00:01:43,740
+Sublette and in the search box just type for sublight and it will list all the related items of subline
+
+14
+00:01:43,740 --> 00:01:47,920
+baggage and just pick one up label.
+
+15
+00:01:48,480 --> 00:01:55,240
+And again this Uplay button will not be files for us.
+
+16
+00:01:55,900 --> 00:01:59,080
+And before doing all these delusions and downloads and all.
+
+17
+00:01:59,190 --> 00:02:01,820
+Just make sure that you are connected to the Internet.
+
+18
+00:02:03,750 --> 00:02:07,830
+Saw this in Optik package manager have done its job.
+
+19
+00:02:08,720 --> 00:02:22,060
+So we have installed some blame you know system and the selection of the synoptic package manager or
+
+20
+00:02:22,060 --> 00:02:26,480
+software sender for downloading bobos is up to you.
+
+21
+00:02:26,560 --> 00:02:37,600
+You can select any one from this and Cinetic package manager is simpler than software Sandu I think
+
+22
+00:02:38,910 --> 00:02:40,390
+and it's completely free.
+
+23
+00:02:40,450 --> 00:02:44,300
+You can select anyone according to your convenience.
+
+24
+00:02:45,010 --> 00:02:48,690
+So let's go to these subline decks right now.
+
+25
+00:02:48,730 --> 00:02:52,330
+This is the sublime text of sublime ID.
+
+26
+00:02:53,110 --> 00:02:56,430
+And I have selected by the language.
+
+27
+00:02:56,650 --> 00:03:04,190
+And here we can see all the languages that suf ordered by Sublime Text.
+
+28
+00:03:04,840 --> 00:03:14,930
+And since we are calling in then we are selecting by then and are always here in the right cold.
+
+29
+00:03:16,240 --> 00:03:18,260
+In the upper position we can see something.
+
+30
+00:03:18,280 --> 00:03:22,030
+This is nothing but just the mini map.
+
+31
+00:03:22,510 --> 00:03:29,240
+Many map shows all the codes in the miniature forms that we are having in this country.
+
+32
+00:03:29,520 --> 00:03:30,340
+That's it.
+
+33
+00:03:30,610 --> 00:03:36,650
+And if that is disturbing you then just go to the view and hide it.
+
+34
+00:03:37,450 --> 00:03:41,540
+And we have got many other options on here.
+
+35
+00:03:41,860 --> 00:03:42,950
+File options.
+
+36
+00:03:43,090 --> 00:03:47,540
+New File Open file open folder Ixo drop options.
+
+37
+00:03:47,570 --> 00:04:02,350
+I don't and using all these options and this is all we can do many things like the programming and this
+
+38
+00:04:02,440 --> 00:04:08,330
+ID in Python will be standard by the next two words.
+
+39
+00:04:08,830 --> 00:04:10,740
+So that's all for now.
+
+40
+00:04:11,050 --> 00:04:11,850
+Keep watching
+
+41
+00:04:15,820 --> 00:04:16,750
+and thank.
+
